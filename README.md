@@ -9,3 +9,4 @@ The envisioned system aims to optimize the university's academic staff database 
 Appropriate indexes will be created to speed up search operations, and to enable more comprehensive and efficient searches, full-text search functionality will be integrated into the system. This feature will allow users to perform complex searches based on specific keywords, phrases, or even proximity of terms within academic staff profiles. Full-text indexes will be created on relevant columns to enable efficient text-based searches.
 
 NOTE: This was a group project, This project also has a gui but heres the query version. Microsoft SQL Server was the engine used in this project It can be ran on other SQL engines too.
+To see changes in the execution plan I/O cost more values should be inserted into the table(s) with indexes

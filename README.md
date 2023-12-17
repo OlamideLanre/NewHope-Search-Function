@@ -1,4 +1,4 @@
-# NewHope-Full-Text-Search-Function
+# NewHope-Search-Function
 NewHope University, a prestigigefous institution dedicated to fostering academic excellence and innovation. The university currently maintains an academic database that stores information about its esteemed academic staff members, including their personal details, educational qualifications, employment history etc
 
 Current System Statement:
